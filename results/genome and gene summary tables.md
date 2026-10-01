@@ -1,4 +1,4 @@
-# PART 1: Plastid Genome Summary Table
+# Plastid Genome Summary Table
 
 ## Characterization Summary (*Camellia sinensis*)
 
